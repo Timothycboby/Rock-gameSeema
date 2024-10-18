@@ -6,27 +6,27 @@ function Section1() {
     <div className="flex flex-wrap relative h-[100vh]">
       <div className="h-full w-full relative">
         <img
-          src="src/public/game/1.png"
+          src="/game/1.png"
           className="opacity-50   absolute  top-[-20%] "
           alt=""
         />
         <img
-          src="src/public/game/2.png"
+          src="/game/2.png"
           className="opacity-50 absolute  bottom-0 right-0 "
           alt=""
         />
         <img
-          src="src/public/game/3.png"
+          src="/game/3.png"
           className="opacity-50  absolute top-[-15%] right-14 "
           alt=""
         />
         <img
-          src="src/public/game/4.png"
+          src="/game/4.png"
           className="opacity-50 absolute  bottom-[-40%]  "
           alt=""
         />
         <img
-          src="src/public/game/5.png"
+          src="/game/5.png"
           className="opacity-50  absolute top-32 left-[25%] "
           alt=""
         />
