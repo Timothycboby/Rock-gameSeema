@@ -21,27 +21,27 @@ const loginComplate=()=>{
       }}
     >
       <img
-        src="/game/1.png"
+        src="/public/game/1.png"
         className="h-96 rotate-[-25deg]  left-[-10%] top-[-2%]  absolute"
         alt=""
       />
       <img
-        src="/game/2.png"
+        src="/public/game/2.png"
         className="h-[70vh]  absolute right-[-10%] top-[-10%] "
         alt=""
       />
       <img
-        src="/game/3.png"
+        src="/public/game/3.png"
         className="h-96  absolute  right-[-5%]  bottom-[-20%] "
         alt=""
       />
       <img
-        src="/game/5.png"
+        src="/public/game/5.png"
         className="h-[75vh]  absolute top-4     left-60 rotate-[20deg]"
         alt=""
       />
       <img
-        src="/game/1.png"
+        src="/public/game/1.png"
         className="h-[70vh] bottom-[-20%]  absolute  "
         alt=""
       />
